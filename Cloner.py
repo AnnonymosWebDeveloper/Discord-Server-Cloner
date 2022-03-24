@@ -3,9 +3,9 @@ import discord
 # - Download discord.py https://pypi.org/project/discord.py/ #
 
 client = discord.Client()
-input_guild_id = "id"  # <-- input guild id
-output_guild_id = "id"  # <-- output guild id
-token = "token"  # <-- your token
+input_guild_id = "809872133853151292"  # <-- input guild id
+output_guild_id = "956643750069801011"  # <-- output guild id
+token = "NDA2ODIzNTc3MDI4MTMyODY0.YjXR_A._A2Ui28fhNrVFpluZHU7EZLzTUM"  # <-- your token
 
 
 print("""\
